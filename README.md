@@ -1,9 +1,9 @@
 # Hate Speech Detector
 
-## How to run
+## Setup Instructions
 
 ```bash
 $ python -m venv env
-$ source env\Scripts\activate
+$ .\env\Scripts\activate
 $ pip install -r requirements.txt
 ```
